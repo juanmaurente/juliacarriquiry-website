@@ -1,21 +1,5 @@
-# responsive-site-html-css the process
+This code is the HTML and CSS for a photography website. The HTML code contains four sections with images and text, each describing a different photography service offered by the photographer. The CSS code contains styling for the entire page, including the font, color scheme, and layout.
 
-This project is a version of a Fully responsive Website created with pure HTML and CSS as part of the course dictated by Mosh Mahedami.
+The page is structured using the HTML5 <main> element, which contains four <section> elements, each containing a <div> element for the image and a <div> element for the text. The text is styled using headings, paragraphs, and buttons.
 
--   Mobile-first aproach.
--   OOP principles
--   Color palette and variables definition in css
--   Typography selection and style for headings and p.
-
-## Tools I've used for this project
-
--   Chrome DevTools and Firefox DevTools
--   Visual Studio Code / Extensions:
-    -- HTML CSS Support
-    -- LiveServer
-    -- CSS Peek
-    -- Prettier
-    -- Highlight Matching Tag
-    -- Todo Highlight
--   Git
--   Normalize.css // npm install normalize.css
+The CSS code sets the color scheme for the page using CSS variables, and sets the font and size for the text. It also sets the layout for the page, including the maximum width of the containers and the shadow effect on some of the containers. There is also a logo styled using CSS flexbox.

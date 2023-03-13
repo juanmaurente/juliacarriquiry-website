@@ -1,26 +1,26 @@
 {
-  "dependencies": {
-    "normalize.css": "^8.0.1"
-  },
-  "name": "responsive-site-html-css",
-  "description": "This project is a version of a Fully responsive Website created with pure HTML and CSS as part of the course dictated by Mosh Mahedami.",
+  "name": "juliacarriquiry-website",
   "version": "1.0.0",
+  "description": "This code is the HTML and CSS for a photography website. The HTML code contains four sections with images and text, each describing a different photography service offered by the photographer. The CSS code contains styling for the entire page, including the font, color scheme, and layout.",
   "main": "index.js",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.5"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juanmaurente/responsive-site-html-css.git"
+    "url": "git+https://github.com/juanmaurente/juliacarriquiry-website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juanmaurente/responsive-site-html-css/issues"
+    "url": "https://github.com/juanmaurente/juliacarriquiry-website/issues"
   },
-  "homepage": "https://github.com/juanmaurente/responsive-site-html-css#readme"
+  "homepage": "https://github.com/juanmaurente/juliacarriquiry-website#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
